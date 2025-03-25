@@ -1,7 +1,7 @@
-# Django login system
+# Django login APP
 This web app has been developed using the popular Django framework and Bootstrap for the frontend. This app can be integrated into a project that needs to have a registration and login system.
 
-### Basic Features of The App
+### Basic Features
     
 * Register – Users can register and create a new profile
 * Login - Registered users can login using username and password

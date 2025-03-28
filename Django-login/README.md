@@ -19,11 +19,10 @@ To get this project up and running locally on your computer follow the following
 2. Run the following commands
 ```
 $ conda env create -f environment.yaml
-$ conda activate 
+$ conda activate django_login
 $ python manage.py migrate
 $ python manage.py createsuperuser
 $ python manage.py runserver
 ```
    
 3. Open a browser and go to http://localhost:8000/
-
